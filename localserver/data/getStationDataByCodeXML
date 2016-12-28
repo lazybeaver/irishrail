@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfObjStationData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://api.irishrail.ie/realtime/">
+  <objStationData>
+    <Servertime>2016-12-28T14:11:22.47</Servertime>
+    <Traincode>E816 </Traincode>
+    <Stationfullname>Dublin Connolly</Stationfullname>
+    <Stationcode>CNLLY</Stationcode>
+    <Querytime>14:11:22</Querytime>
+    <Traindate>28 Dec 2016</Traindate>
+    <Origin>Greystones</Origin>
+    <Destination>Malahide</Destination>
+    <Origintime>13:30</Origintime>
+    <Destinationtime>14:50</Destinationtime>
+    <Status>En Route</Status>
+    <Lastlocation>Arrived Dun Laoghaire</Lastlocation>
+    <Duein>24</Duein>
+    <Late>11</Late>
+    <Exparrival>14:34</Exparrival>
+    <Expdepart>14:35</Expdepart>
+    <Scharrival>14:23</Scharrival>
+    <Schdepart>14:24</Schdepart>
+    <Direction>Northbound</Direction>
+    <Traintype>DART</Traintype>
+    <Locationtype>S</Locationtype>
+  </objStationData>
+  <objStationData>
+    <Servertime>2016-12-28T14:11:22.47</Servertime>
+    <Traincode>E918 </Traincode>
+    <Stationfullname>Dublin Connolly</Stationfullname>
+    <Stationcode>CNLLY</Stationcode>
+    <Querytime>14:11:22</Querytime>
+    <Traindate>28 Dec 2016</Traindate>
+    <Origin>Bray</Origin>
+    <Destination>Howth</Destination>
+    <Origintime>13:55</Origintime>
+    <Destinationtime>15:03</Destinationtime>
+    <Status>En Route</Status>
+    <Lastlocation>Departed Glenageary</Lastlocation>
+    <Duein>30</Duein>
+    <Late>2</Late>
+    <Exparrival>14:40</Exparrival>
+    <Expdepart>14:41</Expdepart>
+    <Scharrival>14:38</Scharrival>
+    <Schdepart>14:39</Schdepart>
+    <Direction>Northbound</Direction>
+    <Traintype>DART</Traintype>
+    <Locationtype>S</Locationtype>
+  </objStationData>
+  <objStationData>
+    <Servertime>2016-12-28T14:11:22.47</Servertime>
+    <Traincode>D915 </Traincode>
+    <Stationfullname>Dublin Connolly</Stationfullname>
+    <Stationcode>CNLLY</Stationcode>
+    <Querytime>14:11:22</Querytime>
+    <Traindate>28 Dec 2016</Traindate>
+    <Origin>Dublin Pearse</Origin>
+    <Destination>Maynooth</Destination>
+    <Origintime>14:38</Origintime>
+    <Destinationtime>15:24</Destinationtime>
+    <Status>No Information</Status>
+    <Lastlocation />
+    <Duein>34</Duein>
+    <Late>0</Late>
+    <Exparrival>14:44</Exparrival>
+    <Expdepart>14:45</Expdepart>
+    <Scharrival>14:44</Scharrival>
+    <Schdepart>14:45</Schdepart>
+    <Direction>Northbound</Direction>
+    <Traintype>Train</Traintype>
+    <Locationtype>S</Locationtype>
+  </objStationData>
+  <objStationData>
+    <Servertime>2016-12-28T14:11:22.47</Servertime>
+    <Traincode>D809 </Traincode>
+    <Stationfullname>Dublin Connolly</Stationfullname>
+    <Stationcode>CNLLY</Stationcode>
+    <Querytime>14:11:22</Querytime>
+    <Traindate>28 Dec 2016</Traindate>
+    <Origin>Dublin Pearse</Origin>
+    <Destination>Drogheda</Destination>
+    <Origintime>14:44</Origintime>
+    <Destinationtime>15:47</Destinationtime>
+    <Status>No Information</Status>
+    <Lastlocation />
+    <Duein>40</Duein>
+    <Late>0</Late>
+    <Exparrival>14:50</Exparrival>
+    <Expdepart>14:51</Expdepart>
+    <Scharrival>14:50</Scharrival>
+    <Schdepart>14:51</Schdepart>
+    <Direction>Northbound</Direction>
+    <Traintype>Train</Traintype>
+    <Locationtype>S</Locationtype>
+  </objStationData>
+  <objStationData>
+    <Servertime>2016-12-28T14:11:22.47</Servertime>
+    <Traincode>E817B</Traincode>
+    <Stationfullname>Dublin Connolly</Stationfullname>
+    <Stationcode>CNLLY</Stationcode>
+    <Querytime>14:11:22</Querytime>
+    <Traindate>28 Dec 2016</Traindate>
+    <Origin>Bray</Origin>
+    <Destination>Malahide</Destination>
+    <Origintime>14:10</Origintime>
+    <Destinationtime>15:20</Destinationtime>
+    <Status>No Information</Status>
+    <Lastlocation />
+    <Duein>43</Duein>
+    <Late>0</Late>
+    <Exparrival>14:53</Exparrival>
+    <Expdepart>14:54</Expdepart>
+    <Scharrival>14:53</Scharrival>
+    <Schdepart>14:54</Schdepart>
+    <Direction>Northbound</Direction>
+    <Traintype>DART</Traintype>
+    <Locationtype>S</Locationtype>
+  </objStationData>
+  <objStationData>
+    <Servertime>2016-12-28T14:11:22.47</Servertime>
+    <Traincode>A908 </Traincode>
+    <Stationfullname>Dublin Connolly</Stationfullname>
+    <Stationcode>CNLLY</Stationcode>
+    <Querytime>14:11:22</Querytime>
+    <Traindate>28 Dec 2016</Traindate>
+    <Origin>Dublin Connolly</Origin>
+    <Destination>Sligo</Destination>
+    <Origintime>15:05</Origintime>
+    <Destinationtime>18:06</Destinationtime>
+    <Status>No Information</Status>
+    <Lastlocation />
+    <Duein>54</Duein>
+    <Late>0</Late>
+    <Exparrival>00:00</Exparrival>
+    <Expdepart>15:05</Expdepart>
+    <Scharrival>00:00</Scharrival>
+    <Schdepart>15:05</Schdepart>
+    <Direction>Northbound</Direction>
+    <Traintype>Train</Traintype>
+    <Locationtype>O</Locationtype>
+  </objStationData>
+  <objStationData>
+    <Servertime>2016-12-28T14:11:22.47</Servertime>
+    <Traincode>E919 </Traincode>
+    <Stationfullname>Dublin Connolly</Stationfullname>
+    <Stationcode>CNLLY</Stationcode>
+    <Querytime>14:11:22</Querytime>
+    <Traindate>28 Dec 2016</Traindate>
+    <Origin>Bray</Origin>
+    <Destination>Howth</Destination>
+    <Origintime>14:25</Origintime>
+    <Destinationtime>15:33</Destinationtime>
+    <Status>No Information</Status>
+    <Lastlocation />
+    <Duein>58</Duein>
+    <Late>0</Late>
+    <Exparrival>15:08</Exparrival>
+    <Expdepart>15:09</Expdepart>
+    <Scharrival>15:08</Scharrival>
+    <Schdepart>15:09</Schdepart>
+    <Direction>Northbound</Direction>
+    <Traintype>DART</Traintype>
+    <Locationtype>S</Locationtype>
+  </objStationData>
+  <objStationData>
+    <Servertime>2016-12-28T14:11:22.47</Servertime>
+    <Traincode>A130 </Traincode>
+    <Stationfullname>Dublin Connolly</Stationfullname>
+    <Stationcode>CNLLY</Stationcode>
+    <Querytime>14:11:22</Querytime>
+    <Traindate>28 Dec 2016</Traindate>
+    <Origin>Dublin Connolly</Origin>
+    <Destination>Belfast Central</Destination>
+    <Origintime>15:20</Origintime>
+    <Destinationtime>17:29</Destinationtime>
+    <Status>No Information</Status>
+    <Lastlocation />
+    <Duein>69</Duein>
+    <Late>0</Late>
+    <Exparrival>00:00</Exparrival>
+    <Expdepart>15:20</Expdepart>
+    <Scharrival>00:00</Scharrival>
+    <Schdepart>15:20</Schdepart>
+    <Direction>Northbound</Direction>
+    <Traintype>Train</Traintype>
+    <Locationtype>O</Locationtype>
+  </objStationData>
+  <objStationData>
+    <Servertime>2016-12-28T14:11:22.47</Servertime>
+    <Traincode>E920B</Traincode>
+    <Stationfullname>Dublin Connolly</Stationfullname>
+    <Stationcode>CNLLY</Stationcode>
+    <Querytime>14:11:22</Querytime>
+    <Traindate>28 Dec 2016</Traindate>
+    <Origin>Greystones</Origin>
+    <Destination>Howth</Destination>
+    <Origintime>14:30</Origintime>
+    <Destinationtime>15:48</Destinationtime>
+    <Status>No Information</Status>
+    <Lastlocation />
+    <Duein>72</Duein>
+    <Late>0</Late>
+    <Exparrival>15:22</Exparrival>
+    <Expdepart>15:23</Expdepart>
+    <Scharrival>15:22</Scharrival>
+    <Schdepart>15:23</Schdepart>
+    <Direction>Northbound</Direction>
+    <Traintype>DART</Traintype>
+    <Locationtype>S</Locationtype>
+  </objStationData>
+  <objStationData>
+    <Servertime>2016-12-28T14:11:22.47</Servertime>
+    <Traincode>A907 </Traincode>
+    <Stationfullname>Dublin Connolly</Stationfullname>
+    <Stationcode>CNLLY</Stationcode>
+    <Querytime>14:11:22</Querytime>
+    <Traindate>28 Dec 2016</Traindate>
+    <Origin>Sligo</Origin>
+    <Destination>Dublin Connolly</Destination>
+    <Origintime>11:00</Origintime>
+    <Destinationtime>14:04</Destinationtime>
+    <Status />
+    <Lastlocation>Arrived Dublin Connolly</Lastlocation>
+    <Duein>2</Duein>
+    <Late>9</Late>
+    <Exparrival>14:13</Exparrival>
+    <Expdepart>00:00</Expdepart>
+    <Scharrival>14:04</Scharrival>
+    <Schdepart>00:00</Schdepart>
+    <Direction>Southbound</Direction>
+    <Traintype>Train</Traintype>
+    <Locationtype>D</Locationtype>
+  </objStationData>
+  <objStationData>
+    <Servertime>2016-12-28T14:11:22.47</Servertime>
+    <Traincode>P612 </Traincode>
+    <Stationfullname>Dublin Connolly</Stationfullname>
+    <Stationcode>CNLLY</Stationcode>
+    <Querytime>14:11:22</Querytime>
+    <Traindate>28 Dec 2016</Traindate>
+    <Origin>Dundalk</Origin>
+    <Destination>Dublin Pearse</Destination>
+    <Origintime>12:50</Origintime>
+    <Destinationtime>14:18</Destinationtime>
+    <Status>En Route</Status>
+    <Lastlocation>Departed Clontarf Road</Lastlocation>
+    <Duein>4</Duein>
+    <Late>1</Late>
+    <Exparrival>14:14</Exparrival>
+    <Expdepart>14:15</Expdepart>
+    <Scharrival>14:13</Scharrival>
+    <Schdepart>14:14</Schdepart>
+    <Direction>Southbound</Direction>
+    <Traintype>Train</Traintype>
+    <Locationtype>S</Locationtype>
+  </objStationData>
+  <objStationData>
+    <Servertime>2016-12-28T14:11:22.47</Servertime>
+    <Traincode>E116 </Traincode>
+    <Stationfullname>Dublin Connolly</Stationfullname>
+    <Stationcode>CNLLY</Stationcode>
+    <Querytime>14:11:22</Querytime>
+    <Traindate>28 Dec 2016</Traindate>
+    <Origin>Malahide</Origin>
+    <Destination>Greystones</Destination>
+    <Origintime>14:02</Origintime>
+    <Destinationtime>15:20</Destinationtime>
+    <Status>En Route</Status>
+    <Lastlocation>Arrived Kilbarrack</Lastlocation>
+    <Duein>14</Duein>
+    <Late>-2</Late>
+    <Exparrival>14:24</Exparrival>
+    <Expdepart>14:25</Expdepart>
+    <Scharrival>14:26</Scharrival>
+    <Schdepart>14:27</Schdepart>
+    <Direction>Southbound</Direction>
+    <Traintype>DART</Traintype>
+    <Locationtype>S</Locationtype>
+  </objStationData>
+  <objStationData>
+    <Servertime>2016-12-28T14:11:22.47</Servertime>
+    <Traincode>P660 </Traincode>
+    <Stationfullname>Dublin Connolly</Stationfullname>
+    <Stationcode>CNLLY</Stationcode>
+    <Querytime>14:11:22</Querytime>
+    <Traindate>28 Dec 2016</Traindate>
+    <Origin>Maynooth</Origin>
+    <Destination>Dublin Pearse</Destination>
+    <Origintime>13:42</Origintime>
+    <Destinationtime>14:26</Destinationtime>
+    <Status>En Route</Status>
+    <Lastlocation>Arrived Castleknock</Lastlocation>
+    <Duein>17</Duein>
+    <Late>7</Late>
+    <Exparrival>14:27</Exparrival>
+    <Expdepart>14:28</Expdepart>
+    <Scharrival>14:20</Scharrival>
+    <Schdepart>14:21</Schdepart>
+    <Direction>Southbound</Direction>
+    <Traintype>Train</Traintype>
+    <Locationtype>S</Locationtype>
+  </objStationData>
+  <objStationData>
+    <Servertime>2016-12-28T14:11:22.47</Servertime>
+    <Traincode>P613 </Traincode>
+    <Stationfullname>Dublin Connolly</Stationfullname>
+    <Stationcode>CNLLY</Stationcode>
+    <Querytime>14:11:22</Querytime>
+    <Traindate>28 Dec 2016</Traindate>
+    <Origin>Drogheda</Origin>
+    <Destination>Dublin Pearse</Destination>
+    <Origintime>13:38</Origintime>
+    <Destinationtime>14:36</Destinationtime>
+    <Status>En Route</Status>
+    <Lastlocation>Arrived Donabate</Lastlocation>
+    <Duein>18</Duein>
+    <Late>-2</Late>
+    <Exparrival>14:28</Exparrival>
+    <Expdepart>14:29</Expdepart>
+    <Scharrival>14:30</Scharrival>
+    <Schdepart>14:31</Schdepart>
+    <Direction>Southbound</Direction>
+    <Traintype>Train</Traintype>
+    <Locationtype>S</Locationtype>
+  </objStationData>
+  <objStationData>
+    <Servertime>2016-12-28T14:11:22.47</Servertime>
+    <Traincode>P714 </Traincode>
+    <Stationfullname>Dublin Connolly</Stationfullname>
+    <Stationcode>CNLLY</Stationcode>
+    <Querytime>14:11:22</Querytime>
+    <Traindate>28 Dec 2016</Traindate>
+    <Origin>Drogheda</Origin>
+    <Destination>Dublin Connolly</Destination>
+    <Origintime>14:17</Origintime>
+    <Destinationtime>15:15</Destinationtime>
+    <Status>En Route</Status>
+    <Lastlocation>Departed Drogheda</Lastlocation>
+    <Duein>26</Duein>
+    <Late>-38</Late>
+    <Exparrival>14:37</Exparrival>
+    <Expdepart>00:00</Expdepart>
+    <Scharrival>15:15</Scharrival>
+    <Schdepart>00:00</Schdepart>
+    <Direction>Southbound</Direction>
+    <Traintype>Train</Traintype>
+    <Locationtype>D</Locationtype>
+  </objStationData>
+  <objStationData>
+    <Servertime>2016-12-28T14:11:22.47</Servertime>
+    <Traincode>E217 </Traincode>
+    <Stationfullname>Dublin Connolly</Stationfullname>
+    <Stationcode>CNLLY</Stationcode>
+    <Querytime>14:11:22</Querytime>
+    <Traindate>28 Dec 2016</Traindate>
+    <Origin>Howth</Origin>
+    <Destination>Bray</Destination>
+    <Origintime>14:15</Origintime>
+    <Destinationtime>15:24</Destinationtime>
+    <Status>No Information</Status>
+    <Lastlocation />
+    <Duein>29</Duein>
+    <Late>0</Late>
+    <Exparrival>14:39</Exparrival>
+    <Expdepart>14:40</Expdepart>
+    <Scharrival>14:39</Scharrival>
+    <Schdepart>14:40</Schdepart>
+    <Direction>Southbound</Direction>
+    <Traintype>DART</Traintype>
+    <Locationtype>S</Locationtype>
+  </objStationData>
+  <objStationData>
+    <Servertime>2016-12-28T14:11:22.47</Servertime>
+    <Traincode>A127 </Traincode>
+    <Stationfullname>Dublin Connolly</Stationfullname>
+    <Stationcode>CNLLY</Stationcode>
+    <Querytime>14:11:22</Querytime>
+    <Traindate>28 Dec 2016</Traindate>
+    <Origin>Belfast Central</Origin>
+    <Destination>Dublin Connolly</Destination>
+    <Origintime>12:35</Origintime>
+    <Destinationtime>14:40</Destinationtime>
+    <Status>En Route</Status>
+    <Lastlocation>Arrived Drogheda</Lastlocation>
+    <Duein>30</Duein>
+    <Late>1</Late>
+    <Exparrival>14:41</Exparrival>
+    <Expdepart>00:00</Expdepart>
+    <Scharrival>14:40</Scharrival>
+    <Schdepart>00:00</Schdepart>
+    <Direction>Southbound</Direction>
+    <Traintype>Train</Traintype>
+    <Locationtype>D</Locationtype>
+  </objStationData>
+  <objStationData>
+    <Servertime>2016-12-28T14:11:22.47</Servertime>
+    <Traincode>E247B</Traincode>
+    <Stationfullname>Dublin Connolly</Stationfullname>
+    <Stationcode>CNLLY</Stationcode>
+    <Querytime>14:11:22</Querytime>
+    <Traindate>28 Dec 2016</Traindate>
+    <Origin>Malahide</Origin>
+    <Destination>Bray</Destination>
+    <Origintime>14:30</Origintime>
+    <Destinationtime>15:39</Destinationtime>
+    <Status>No Information</Status>
+    <Lastlocation />
+    <Duein>44</Duein>
+    <Late>0</Late>
+    <Exparrival>14:54</Exparrival>
+    <Expdepart>14:55</Expdepart>
+    <Scharrival>14:54</Scharrival>
+    <Schdepart>14:55</Schdepart>
+    <Direction>Southbound</Direction>
+    <Traintype>DART</Traintype>
+    <Locationtype>S</Locationtype>
+  </objStationData>
+  <objStationData>
+    <Servertime>2016-12-28T14:11:22.47</Servertime>
+    <Traincode>E218 </Traincode>
+    <Stationfullname>Dublin Connolly</Stationfullname>
+    <Stationcode>CNLLY</Stationcode>
+    <Querytime>14:11:22</Querytime>
+    <Traindate>28 Dec 2016</Traindate>
+    <Origin>Howth</Origin>
+    <Destination>Bray</Destination>
+    <Origintime>14:45</Origintime>
+    <Destinationtime>15:54</Destinationtime>
+    <Status>No Information</Status>
+    <Lastlocation />
+    <Duein>59</Duein>
+    <Late>0</Late>
+    <Exparrival>15:09</Exparrival>
+    <Expdepart>15:10</Expdepart>
+    <Scharrival>15:09</Scharrival>
+    <Schdepart>15:10</Schdepart>
+    <Direction>Southbound</Direction>
+    <Traintype>DART</Traintype>
+    <Locationtype>S</Locationtype>
+  </objStationData>
+  <objStationData>
+    <Servertime>2016-12-28T14:11:22.47</Servertime>
+    <Traincode>P661 </Traincode>
+    <Stationfullname>Dublin Connolly</Stationfullname>
+    <Stationcode>CNLLY</Stationcode>
+    <Querytime>14:11:22</Querytime>
+    <Traindate>28 Dec 2016</Traindate>
+    <Origin>Maynooth</Origin>
+    <Destination>Dublin Pearse</Destination>
+    <Origintime>14:40</Origintime>
+    <Destinationtime>15:25</Destinationtime>
+    <Status>No Information</Status>
+    <Lastlocation />
+    <Duein>69</Duein>
+    <Late>0</Late>
+    <Exparrival>15:18</Exparrival>
+    <Expdepart>15:20</Expdepart>
+    <Scharrival>15:18</Scharrival>
+    <Schdepart>15:20</Schdepart>
+    <Direction>Southbound</Direction>
+    <Traintype>Train</Traintype>
+    <Locationtype>S</Locationtype>
+  </objStationData>
+  <objStationData>
+    <Servertime>2016-12-28T14:11:22.47</Servertime>
+    <Traincode>E118 </Traincode>
+    <Stationfullname>Dublin Connolly</Stationfullname>
+    <Stationcode>CNLLY</Stationcode>
+    <Querytime>14:11:22</Querytime>
+    <Traindate>28 Dec 2016</Traindate>
+    <Origin>Malahide</Origin>
+    <Destination>Greystones</Destination>
+    <Origintime>15:00</Origintime>
+    <Destinationtime>16:20</Destinationtime>
+    <Status>No Information</Status>
+    <Lastlocation />
+    <Duein>74</Duein>
+    <Late>0</Late>
+    <Exparrival>15:24</Exparrival>
+    <Expdepart>15:25</Expdepart>
+    <Scharrival>15:24</Scharrival>
+    <Schdepart>15:25</Schdepart>
+    <Direction>Southbound</Direction>
+    <Traintype>DART</Traintype>
+    <Locationtype>S</Locationtype>
+  </objStationData>
+  <objStationData>
+    <Servertime>2016-12-28T14:11:22.47</Servertime>
+    <Traincode>P704 </Traincode>
+    <Stationfullname>Dublin Connolly</Stationfullname>
+    <Stationcode>CNLLY</Stationcode>
+    <Querytime>14:11:22</Querytime>
+    <Traindate>28 Dec 2016</Traindate>
+    <Origin>Drogheda</Origin>
+    <Destination>Dublin Connolly</Destination>
+    <Origintime>14:37</Origintime>
+    <Destinationtime>15:30</Destinationtime>
+    <Status>No Information</Status>
+    <Lastlocation />
+    <Duein>79</Duein>
+    <Late>0</Late>
+    <Exparrival>15:30</Exparrival>
+    <Expdepart>00:00</Expdepart>
+    <Scharrival>15:30</Scharrival>
+    <Schdepart>00:00</Schdepart>
+    <Direction>Southbound</Direction>
+    <Traintype>Train</Traintype>
+    <Locationtype>D</Locationtype>
+  </objStationData>
+  <objStationData>
+    <Servertime>2016-12-28T14:11:22.47</Servertime>
+    <Traincode>E219 </Traincode>
+    <Stationfullname>Dublin Connolly</Stationfullname>
+    <Stationcode>CNLLY</Stationcode>
+    <Querytime>14:11:22</Querytime>
+    <Traindate>28 Dec 2016</Traindate>
+    <Origin>Howth</Origin>
+    <Destination>Bray</Destination>
+    <Origintime>15:15</Origintime>
+    <Destinationtime>16:24</Destinationtime>
+    <Status>No Information</Status>
+    <Lastlocation />
+    <Duein>89</Duein>
+    <Late>0</Late>
+    <Exparrival>15:39</Exparrival>
+    <Expdepart>15:40</Expdepart>
+    <Scharrival>15:39</Scharrival>
+    <Schdepart>15:40</Schdepart>
+    <Direction>Southbound</Direction>
+    <Traintype>DART</Traintype>
+    <Locationtype>S</Locationtype>
+  </objStationData>
+</ArrayOfObjStationData>

@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfObjTrainPositions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://api.irishrail.ie/realtime/">
+  <objTrainPositions>
+    <TrainStatus>N</TrainStatus>
+    <TrainLatitude>51.9018</TrainLatitude>
+    <TrainLongitude>-8.4582</TrainLongitude>
+    <TrainCode>A219</TrainCode>
+    <TrainDate>28 Dec 2016</TrainDate>
+    <PublicMessage>A219\nCork to Dublin Heuston\nExpected Departure 14:20</PublicMessage>
+    <Direction>To Dublin Heuston</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>N</TrainStatus>
+    <TrainLatitude>51.9018</TrainLatitude>
+    <TrainLongitude>-8.4582</TrainLongitude>
+    <TrainCode>D282</TrainCode>
+    <TrainDate>28 Dec 2016</TrainDate>
+    <PublicMessage>D282\nCork to Midleton\nExpected Departure 14:15</PublicMessage>
+    <Direction>To Midleton</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>N</TrainStatus>
+    <TrainLatitude>53.0371</TrainLatitude>
+    <TrainLongitude>-7.30086</TrainLongitude>
+    <TrainCode>P213</TrainCode>
+    <TrainDate>28 Dec 2016</TrainDate>
+    <PublicMessage>P213\nPortlaoise to Dublin Heuston\nExpected Departure 14:20</PublicMessage>
+    <Direction>To Dublin Heuston</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>N</TrainStatus>
+    <TrainLatitude>53.2043</TrainLatitude>
+    <TrainLongitude>-6.10046</TrainLongitude>
+    <TrainCode>E817B</TrainCode>
+    <TrainDate>28 Dec 2016</TrainDate>
+    <PublicMessage>E817B\nBray to Malahide\nExpected Departure 14:10</PublicMessage>
+    <Direction>Northbound</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>N</TrainStatus>
+    <TrainLatitude>53.3464</TrainLatitude>
+    <TrainLongitude>-6.29461</TrainLongitude>
+    <TrainCode>D209</TrainCode>
+    <TrainDate>28 Dec 2016</TrainDate>
+    <PublicMessage>D209\nDublin Heuston to Portlaoise\nExpected Departure 14:15</PublicMessage>
+    <Direction>To Portlaoise</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>N</TrainStatus>
+    <TrainLatitude>53.3831</TrainLatitude>
+    <TrainLongitude>-6.4242</TrainLongitude>
+    <TrainCode>D308</TrainCode>
+    <TrainDate>28 Dec 2016</TrainDate>
+    <PublicMessage>D308\nClonsilla to M3 Parkway\nExpected Departure 14:15</PublicMessage>
+    <Direction>Northbound</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>N</TrainStatus>
+    <TrainLatitude>53.3891</TrainLatitude>
+    <TrainLongitude>-6.07401</TrainLongitude>
+    <TrainCode>E217</TrainCode>
+    <TrainDate>28 Dec 2016</TrainDate>
+    <PublicMessage>E217\nHowth to Bray\nExpected Departure 14:15</PublicMessage>
+    <Direction>Southbound</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>N</TrainStatus>
+    <TrainLatitude>54.6123</TrainLatitude>
+    <TrainLongitude>-5.91744</TrainLongitude>
+    <TrainCode>A129</TrainCode>
+    <TrainDate>28 Dec 2016</TrainDate>
+    <PublicMessage>A129\nBelfast Central to Dublin Connolly\nExpected Departure 14:05</PublicMessage>
+    <Direction>Southbound</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>R</TrainStatus>
+    <TrainLatitude>0</TrainLatitude>
+    <TrainLongitude>0</TrainLongitude>
+    <TrainCode>A212</TrainCode>
+    <TrainDate>28 Dec 2016</TrainDate>
+    <PublicMessage>A212\n12:00 - Dublin Heuston to Cork (-3 mins late)\nDeparted Killarney Junction next stop Cork</PublicMessage>
+    <Direction>To Cork</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>R</TrainStatus>
+    <TrainLatitude>0</TrainLatitude>
+    <TrainLongitude>0</TrainLongitude>
+    <TrainCode>A217</TrainCode>
+    <TrainDate>28 Dec 2016</TrainDate>
+    <PublicMessage>A217\n13:20 - Cork to Dublin Heuston (-1 mins late)\nDeparted LJ895 next stop Limerick Junction</PublicMessage>
+    <Direction>To Dublin Heuston</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>R</TrainStatus>
+    <TrainLatitude>0</TrainLatitude>
+    <TrainLongitude>0</TrainLongitude>
+    <TrainCode>A804</TrainCode>
+    <TrainDate>28 Dec 2016</TrainDate>
+    <PublicMessage>A804\n12:45 - Dublin Heuston to Westport (3 mins late)\nDeparted Athlone Midland Yard next stop Roscommon</PublicMessage>
+    <Direction>To Westport</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>R</TrainStatus>
+    <TrainLatitude>52.1396</TrainLatitude>
+    <TrainLongitude>-8.65521</TrainLongitude>
+    <TrainCode>A306</TrainCode>
+    <TrainDate>28 Dec 2016</TrainDate>
+    <PublicMessage>A306\n13:20 - Mallow to Tralee (1 mins late)\nDeparted Mallow next stop Banteer</PublicMessage>
+    <Direction>To Tralee</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>R</TrainStatus>
+    <TrainLatitude>52.5828</TrainLatitude>
+    <TrainLongitude>-8.38682</TrainLongitude>
+    <TrainCode>A435</TrainCode>
+    <TrainDate>28 Dec 2016</TrainDate>
+    <PublicMessage>A435\n13:45 - Limerick to Limerick Junction (3 mins late)\nDeparted Drumkeen next stop Limerick Junction</PublicMessage>
+    <Direction>To Limerick Junction</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>R</TrainStatus>
+    <TrainLatitude>52.6404</TrainLatitude>
+    <TrainLongitude>-8.52719</TrainLongitude>
+    <TrainCode>A786</TrainCode>
+    <TrainDate>28 Dec 2016</TrainDate>
+    <PublicMessage>A786\n13:40 - Limerick Junction to Galway (3 mins late)\nDeparted Killonan next stop Limerick</PublicMessage>
+    <Direction>To Galway</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>R</TrainStatus>
+    <TrainLatitude>52.6766</TrainLatitude>
+    <TrainLongitude>-7.82189</TrainLongitude>
+    <TrainCode>A214</TrainCode>
+    <TrainDate>28 Dec 2016</TrainDate>
+    <PublicMessage>A214\n13:00 - Dublin Heuston to Cork (-1 mins late)\nArrived Thurles next stop Limerick Junction</PublicMessage>
+    <Direction>To Cork</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>R</TrainStatus>
+    <TrainLatitude>52.8407</TrainLatitude>
+    <TrainLongitude>-6.92217</TrainLongitude>
+    <TrainCode>A511</TrainCode>
+    <TrainDate>28 Dec 2016</TrainDate>
+    <PublicMessage>A511\n13:05 - Waterford to Dublin Heuston (2 mins late)\nArrived Carlow next stop Athy</PublicMessage>
+    <Direction>To Dublin Heuston</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>R</TrainStatus>
+    <TrainLatitude>52.992</TrainLatitude>
+    <TrainLongitude>-6.9762</TrainLongitude>
+    <TrainCode>A506</TrainCode>
+    <TrainDate>28 Dec 2016</TrainDate>
+    <PublicMessage>A506\n13:15 - Dublin Heuston to Waterford (-5 mins late)\nDeparted Athy next stop Carlow</PublicMessage>
+    <Direction>To Waterford</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>R</TrainStatus>
+    <TrainLatitude>53.0371</TrainLatitude>
+    <TrainLongitude>-7.30086</TrainLongitude>
+    <TrainCode>A215</TrainCode>
+    <TrainDate>28 Dec 2016</TrainDate>
+    <PublicMessage>A215\n12:20 - Cork to Dublin Heuston (-2 mins late)\nDeparted Portlaoise next stop Dublin Heuston</PublicMessage>
+    <Direction>To Dublin Heuston</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>R</TrainStatus>
+    <TrainLatitude>53.1454</TrainLatitude>
+    <TrainLongitude>-7.06361</TrainLongitude>
+    <TrainCode>D208</TrainCode>
+    <TrainDate>28 Dec 2016</TrainDate>
+    <PublicMessage>D208\n13:20 - Dublin Heuston to Portlaoise (-1 mins late)\nArrived Monasterevin next stop Portarlington</PublicMessage>
+    <Direction>To Portlaoise</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>R</TrainStatus>
+    <TrainLatitude>53.2043</TrainLatitude>
+    <TrainLongitude>-6.10046</TrainLongitude>
+    <TrainCode>E114</TrainCode>
+    <TrainDate>28 Dec 2016</TrainDate>
+    <PublicMessage>E114\n13:02 - Malahide to Greystones (0 mins late)\nDeparted Bray next stop Greystones</PublicMessage>
+    <Direction>Southbound</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>R</TrainStatus>
+    <TrainLatitude>53.2043</TrainLatitude>
+    <TrainLongitude>-6.10046</TrainLongitude>
+    <TrainCode>E815B</TrainCode>
+    <TrainDate>28 Dec 2016</TrainDate>
+    <PublicMessage>E815B\n13:10 - Bray to Malahide (0 mins late)\nDeparted Bray next stop Woodbrook</PublicMessage>
+    <Direction>Northbound</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>R</TrainStatus>
+    <TrainLatitude>53.2135</TrainLatitude>
+    <TrainLongitude>-7.35205</TrainLongitude>
+    <TrainCode>A706</TrainCode>
+    <TrainDate>28 Dec 2016</TrainDate>
+    <PublicMessage>A706\n13:25 - Dublin Heuston to Galway (0 mins late)\nArrived Geashill next stop Tullamore</PublicMessage>
+    <Direction>To Galway</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>R</TrainStatus>
+    <TrainLatitude>53.2364</TrainLatitude>
+    <TrainLongitude>-6.11691</TrainLongitude>
+    <TrainCode>A606</TrainCode>
+    <TrainDate>28 Dec 2016</TrainDate>
+    <PublicMessage>A606\n13:36 - Dublin Connolly to Rosslare Europort (-3 mins late)\nDeparted Shankill next stop Bray</PublicMessage>
+    <Direction>Southbound</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>R</TrainStatus>
+    <TrainLatitude>53.2812</TrainLatitude>
+    <TrainLongitude>-6.12289</TrainLongitude>
+    <TrainCode>E215</TrainCode>
+    <TrainDate>28 Dec 2016</TrainDate>
+    <PublicMessage>E215\n13:15 - Howth to Bray (2 mins late)\nDeparted Glenageary next stop Dalkey</PublicMessage>
+    <Direction>Southbound</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>R</TrainStatus>
+    <TrainLatitude>53.2812</TrainLatitude>
+    <TrainLongitude>-6.12289</TrainLongitude>
+    <TrainCode>E918</TrainCode>
+    <TrainDate>28 Dec 2016</TrainDate>
+    <PublicMessage>E918\n13:55 - Bray to Howth (1 mins late)\nDeparted Glenageary next stop Sandycove</PublicMessage>
+    <Direction>Northbound</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>R</TrainStatus>
+    <TrainLatitude>53.2951</TrainLatitude>
+    <TrainLongitude>-6.13498</TrainLongitude>
+    <TrainCode>E816</TrainCode>
+    <TrainDate>28 Dec 2016</TrainDate>
+    <PublicMessage>E816\n13:30 - Greystones to Malahide (11 mins late)\nArrived Dun Laoghaire next stop Salthill</PublicMessage>
+    <Direction>Northbound</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>R</TrainStatus>
+    <TrainLatitude>53.3223</TrainLatitude>
+    <TrainLongitude>-6.52356</TrainLongitude>
+    <TrainCode>P212</TrainCode>
+    <TrainDate>28 Dec 2016</TrainDate>
+    <PublicMessage>P212\n13:20 - Portlaoise to Dublin Heuston (0 mins late)\nDeparted Hazelhatch next stop Adamstown</PublicMessage>
+    <Direction>To Dublin Heuston</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>R</TrainStatus>
+    <TrainLatitude>53.3353</TrainLatitude>
+    <TrainLongitude>-6.45233</TrainLongitude>
+    <TrainCode>A216</TrainCode>
+    <TrainDate>28 Dec 2016</TrainDate>
+    <PublicMessage>A216\n14:00 - Dublin Heuston to Cork (0 mins late)\nDeparted Adamstown next stop Portlaoise</PublicMessage>
+    <Direction>To Cork</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>R</TrainStatus>
+    <TrainLatitude>53.3531</TrainLatitude>
+    <TrainLongitude>-6.24591</TrainLongitude>
+    <TrainCode>E216</TrainCode>
+    <TrainDate>28 Dec 2016</TrainDate>
+    <PublicMessage>E216\n13:45 - Howth to Bray (0 mins late)\nDeparted Dublin Connolly next stop Tara Street</PublicMessage>
+    <Direction>Southbound</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>R</TrainStatus>
+    <TrainLatitude>53.3531</TrainLatitude>
+    <TrainLongitude>-6.24591</TrainLongitude>
+    <TrainCode>E917</TrainCode>
+    <TrainDate>28 Dec 2016</TrainDate>
+    <PublicMessage>E917\n13:25 - Bray to Howth (1 mins late)\nDeparted Dublin Connolly next stop Clontarf Road</PublicMessage>
+    <Direction>Northbound</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>R</TrainStatus>
+    <TrainLatitude>53.3629</TrainLatitude>
+    <TrainLongitude>-6.22753</TrainLongitude>
+    <TrainCode>P612</TrainCode>
+    <TrainDate>28 Dec 2016</TrainDate>
+    <PublicMessage>P612\n12:50 - Dundalk to Dublin Pearse (1 mins late)\nDeparted Clontarf Road next stop Dublin Connolly</PublicMessage>
+    <Direction>Southbound</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>R</TrainStatus>
+    <TrainLatitude>53.3776</TrainLatitude>
+    <TrainLongitude>-6.39072</TrainLongitude>
+    <TrainCode>D914</TrainCode>
+    <TrainDate>28 Dec 2016</TrainDate>
+    <PublicMessage>D914\n13:42 - Dublin Pearse to Maynooth (3 mins late)\nArrived Coolmine next stop Clonsilla</PublicMessage>
+    <Direction>Northbound</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>R</TrainStatus>
+    <TrainLatitude>53.3816</TrainLatitude>
+    <TrainLongitude>-6.37149</TrainLongitude>
+    <TrainCode>P660</TrainCode>
+    <TrainDate>28 Dec 2016</TrainDate>
+    <PublicMessage>P660\n13:42 - Maynooth to Dublin Pearse (6 mins late)\nArrived Castleknock next stop Navan Road Parkway</PublicMessage>
+    <Direction>Southbound</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>R</TrainStatus>
+    <TrainLatitude>53.387</TrainLatitude>
+    <TrainLongitude>-6.16163</TrainLongitude>
+    <TrainCode>E116</TrainCode>
+    <TrainDate>28 Dec 2016</TrainDate>
+    <PublicMessage>E116\n14:02 - Malahide to Greystones (-2 mins late)\nArrived Kilbarrack next stop Raheny</PublicMessage>
+    <Direction>Southbound</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>R</TrainStatus>
+    <TrainLatitude>53.4157</TrainLatitude>
+    <TrainLongitude>-6.83395</TrainLongitude>
+    <TrainCode>A906</TrainCode>
+    <TrainDate>28 Dec 2016</TrainDate>
+    <PublicMessage>A906\n13:05 - Dublin Connolly to Sligo (11 mins late)\nDeparted Enfield next stop Mullingar</PublicMessage>
+    <Direction>Northbound</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>R</TrainStatus>
+    <TrainLatitude>53.4273</TrainLatitude>
+    <TrainLongitude>-7.93683</TrainLongitude>
+    <TrainCode>A713</TrainCode>
+    <TrainDate>28 Dec 2016</TrainDate>
+    <PublicMessage>A713\n13:05 - Galway to Dublin Heuston (1 mins late)\nDeparted Athlone next stop Clara</PublicMessage>
+    <Direction>To Dublin Heuston</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>R</TrainStatus>
+    <TrainLatitude>53.4509</TrainLatitude>
+    <TrainLongitude>-6.15649</TrainLongitude>
+    <TrainCode>E246B</TrainCode>
+    <TrainDate>28 Dec 2016</TrainDate>
+    <PublicMessage>E246B\n13:30 - Malahide to Bray (0 mins late)\nDeparted Malahide next stop Portmarnock</PublicMessage>
+    <Direction>Southbound</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>R</TrainStatus>
+    <TrainLatitude>53.4855</TrainLatitude>
+    <TrainLongitude>-6.15134</TrainLongitude>
+    <TrainCode>P613</TrainCode>
+    <TrainDate>28 Dec 2016</TrainDate>
+    <PublicMessage>P613\n13:38 - Drogheda to Dublin Pearse (-1 mins late)\nArrived Donabate next stop Malahide</PublicMessage>
+    <Direction>Southbound</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>R</TrainStatus>
+    <TrainLatitude>53.5741</TrainLatitude>
+    <TrainLongitude>-6.11933</TrainLongitude>
+    <TrainCode>D808</TrainCode>
+    <TrainDate>28 Dec 2016</TrainDate>
+    <PublicMessage>D808\n13:30 - Dublin Pearse to Drogheda (1 mins late)\nArrived Skerries next stop Balbriggan</PublicMessage>
+    <Direction>Northbound</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>R</TrainStatus>
+    <TrainLatitude>53.712</TrainLatitude>
+    <TrainLongitude>-6.33538</TrainLongitude>
+    <TrainCode>A127</TrainCode>
+    <TrainDate>28 Dec 2016</TrainDate>
+    <PublicMessage>A127\n12:35 - Belfast Central to Dublin Connolly (1 mins late)\nArrived Drogheda next stop Dublin Connolly</PublicMessage>
+    <Direction>Southbound</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>R</TrainStatus>
+    <TrainLatitude>53.712</TrainLatitude>
+    <TrainLongitude>-6.33538</TrainLongitude>
+    <TrainCode>A128</TrainCode>
+    <TrainDate>28 Dec 2016</TrainDate>
+    <PublicMessage>A128\n13:20 - Dublin Connolly to Belfast Central (0 mins late)\nDeparted Drogheda next stop Dundalk</PublicMessage>
+    <Direction>Northbound</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>R</TrainStatus>
+    <TrainLatitude>53.712</TrainLatitude>
+    <TrainLongitude>-6.33538</TrainLongitude>
+    <TrainCode>P714</TrainCode>
+    <TrainDate>28 Dec 2016</TrainDate>
+    <PublicMessage>P714\n14:17 - Drogheda to Dublin Connolly (-37 mins late)\nDeparted Drogheda next stop Laytown</PublicMessage>
+    <Direction>Southbound</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>R</TrainStatus>
+    <TrainLatitude>53.8591</TrainLatitude>
+    <TrainLongitude>-7.9164</TrainLongitude>
+    <TrainCode>A909</TrainCode>
+    <TrainDate>28 Dec 2016</TrainDate>
+    <PublicMessage>A909\n13:00 - Sligo to Dublin Connolly (2 mins late)\nDeparted Dromod next stop Longford</PublicMessage>
+    <Direction>Southbound</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>R</TrainStatus>
+    <TrainLatitude>54.0887</TrainLatitude>
+    <TrainLongitude>-8.52088</TrainLongitude>
+    <TrainCode>A904</TrainCode>
+    <TrainDate>28 Dec 2016</TrainDate>
+    <PublicMessage>A904\n11:05 - Dublin Connolly to Sligo (7 mins late)\nDeparted Ballymote next stop Collooney</PublicMessage>
+    <Direction>Northbound</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>T</TrainStatus>
+    <TrainLatitude>53.3531</TrainLatitude>
+    <TrainLongitude>-6.24591</TrainLongitude>
+    <TrainCode>A907</TrainCode>
+    <TrainDate>28 Dec 2016</TrainDate>
+    <PublicMessage>A907\n11:00 - Sligo to Dublin Connolly(4 mins late)\nTERMINATED Dublin Connolly at 14:08</PublicMessage>
+    <Direction>Southbound</Direction>
+  </objTrainPositions>
+  <objTrainPositions>
+    <TrainStatus>T</TrainStatus>
+    <TrainLatitude>53.3891</TrainLatitude>
+    <TrainLongitude>-6.07401</TrainLongitude>
+    <TrainCode>E916</TrainCode>
+    <TrainDate>28 Dec 2016</TrainDate>
+    <PublicMessage>E916\n12:55 - Bray to Howth(3 mins late)\nTERMINATED Howth at 14:06</PublicMessage>
+    <Direction>Northbound</Direction>
+  </objTrainPositions>
+</ArrayOfObjTrainPositions>

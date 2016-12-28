@@ -1,0 +1,16 @@
+#!/bin/bash
+set -eu
+
+BASE_URL="http://api.irishrail.ie/realtime/realtime.asmx"
+BASE_DIR="${GOPATH}/src/github.com/lazybeaver/irishrail/localserver/data"
+
+STATION="CNLLY"
+TRAIN="E214"
+
+[[ -d ${BASE_DIR} ]] || mkdir -p ${BASE_DIR}
+rm -f ${BASE_DIR}/*
+
+curl -s -o "${BASE_DIR}/getAllStationsXML" "${BASE_URL}/getAllStationsXML"
+curl -s -o "${BASE_DIR}/getCurrentTrainsXML" "${BASE_URL}/getCurrentTrainsXML"
+curl -s -o "${BASE_DIR}/getStationDataByCodeXML" "${BASE_URL}/getStationDataByCodeXML?StationCode=${STATION}"
+curl -s -o "${BASE_DIR}/getTrainMovementsXML" "${BASE_URL}/getTrainMovementsXML?TrainId=${TRAIN}&TrainDate="
